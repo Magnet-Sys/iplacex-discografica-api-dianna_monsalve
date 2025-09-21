@@ -20,5 +20,5 @@ gradle-app.setting
 # JDT-specific (Eclipse Java Development Tools)
 .classpath
 
-#Ignorar archivos de credenciales locales
-application.properties
+# Ignorar archivos de credenciales locales
+# application.properties
